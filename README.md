@@ -14,11 +14,11 @@
 
 ### About me 💪
 - I’m currently studying on CUCEI📚
-- I’m currently learning Python & Flask 🌱
+- I’m learning Python & Flask 🌱
 - Interests ⚡:
 * Cybersecurity
 * Development of web and mobile applications
-I am a proactive, organized and responsible person. I like to work with 
+* I am a proactive, organized and responsible person. I like to work with 
 other people as a team, giving my greatest effort to reach our goals.
 <br/>
 <br/>
