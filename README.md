@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃<a href="hhttps://github.com/anngeldiaz24"></a>!
+    𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃!<a href="hhttps://github.com/anngeldiaz24"></a>!
     <img alt="Hi!" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/hand.gif" width="25px">
   </h1>
 </div>
@@ -12,14 +12,12 @@
 
 <img align="right" height="300px" width="350px" alt="GIF" src="https://github.com/anngeldiaz24/anngeldiaz24/blob/main/angel.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About me 💪
+- 🔭 I’m currently studying on CUCEI
+- 🌱 I’m currently learning Python & Flask
+- ⚡ Interests:
+* Cybersecurity
+* Development of web and mobile applications
 <br/>
 <br/>
 <br/>
