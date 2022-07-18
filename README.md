@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <code><a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://cplusplus.com" target="_blank"><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="c++" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></code>&nbsp;
-<code><a href="https://palletsprojects.com/p/flask" target="_blank"><img src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent-797x1024.png" alt="flask" width="40" height="40"/></a></code>&nbsp;
+<code><a href="https://flask.palletsprojects.com/en/2.1.x/quickstart" target="_blank"><img src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent-797x1024.png" alt="flask" width="40" height="40"/></a></code>&nbsp;
 </p>
