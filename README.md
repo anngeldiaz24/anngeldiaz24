@@ -12,7 +12,7 @@
 
 <img align="right" height="300px" width="350px" alt="GIF" src="https://github.com/anngeldiaz24/anngeldiaz24/blob/main/angel.png" />
 
-### About me 💪
+### ABOUT ME 💪
 <h3>
 - 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗼𝗻 𝗖𝗨𝗖𝗘𝗜📚<br/>
 - 𝗜’𝗺 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝘆𝘁𝗵𝗼𝗻 & 𝗙𝗹𝗮𝘀𝗸 🌱<br/>
