@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Languages and Tools 💻
+### Languages and Tools 💻
 <p align="center"> 
 <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>&nbsp;
@@ -31,4 +31,10 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌍
  
-<a href="https://www.linkedin.com/in/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a><a href="https://twitter.com/Chatra57643667"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a><a href="https://t.me/Pulkit_Champ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-256.png" width="40"><a><a href="https://discord.gg/nJvwp9VHzf"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a><a href="mailto:pulkit.handa@ais.amity.edu"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+
+<a href="https://twitter.com/Chatra57643667"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>
+
+<a href="https://t.me/Pulkit_Champ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-256.png" width="40"><a><a href="https://discord.gg/nJvwp9VHzf"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+
+<a href="mailto:pulkit.handa@ais.amity.edu"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
