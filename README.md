@@ -28,3 +28,17 @@ Here are some ideas to get you started:
 <code><a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
 </code>
 </p>
+
+## Find me around the web 🌍:
+<p align="center">
+    <a href="https://instagram.com/baumannzone">
+        <img src="https://img.shields.io/badge/Baumannzone--_.svg?label=Instagram&style=social&logo=instagram" alt="Instagram Baumannzone">
+    </a>
+    <a href="https://twitter.com/baumannzone">
+        <img src="https://img.shields.io/twitter/follow/Baumannzone?label=Twitter&style=social" alt="Twitter Baumannzone">
+    </a>
+    <a href="https://twitch.tv/baumannzone">
+        <img src="https://img.shields.io/badge/Baumannzone--_.svg?label=Twitch&style=social&logo=twitch" alt="Twitch Baumannzone">
+    </a>
+</p>
+
