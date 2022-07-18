@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Find me around the web 🌍
 <p align="left"> 
-<a href="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png"><img src="" width="40"></a>
+<code><a href="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png"><img src="" width="40"></a></code>
 <a href="https://twitter.com/Chatra57643667"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>
 <a href="https://t.me/Pulkit_Champ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-256.png" width="40"></a>
 
