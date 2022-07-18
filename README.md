@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </code>
 </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>𝐄 𝐕 𝐄 𝐑  𝐁 𝐄 𝐓 𝐓 𝐄 𝐑</i>⚡️</h1>
 
 ### Find me around the web 🌍
 
