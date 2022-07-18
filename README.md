@@ -35,7 +35,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Baumannzone--_.svg?label=Instagram&style=social&logo=instagram" alt="Instagram AD">
     </a>
     <a href="https://twitter.com/baumannzone">
-        <img src="https://img.shields.io/twitter/follow/Baumannzone?label=Twitter&style=social" alt="Facebook AD">
+        <img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="Facebook AD">
     </a>
     <a href="https://twitch.tv/baumannzone">
         <img src="https://img.shields.io/badge/Baumannzone--_.svg?label=Twitch&style=social&logo=twitch" alt="Gmail AD">
