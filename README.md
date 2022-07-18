@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ❌ 𝐀𝐧𝐠𝐞𝐥 𝐃𝐢𝐚𝐳​ 👨‍💻​ | 💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐆𝐮𝐚𝐝𝐚𝐥𝐚𝐣𝐚𝐫𝐚, 𝐌𝐗 🌮❌​</h3>
+<h3> ❌ 𝐀𝐧𝐠𝐞𝐥 𝐃𝐢𝐚𝐳​ 👨‍💻​ | 💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐆𝐮𝐚𝐝𝐚𝐥𝐚𝐣𝐚𝐫𝐚, 𝐌𝐗 🌮❌​</h3>
 </div>
 Here are some ideas to get you started:
 
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <code><a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
 </code>
 </p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 ### Find me around the web 🌍
 
