@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">𝐄𝐕𝐄𝐑 𝐁𝐄𝐓𝐓𝐄𝐑</p>
+<h1 align="center">𝐄𝐕𝐄𝐑 𝐁𝐄𝐓𝐓𝐄𝐑</h1>
 
 <h2 align='center'><b>My GitHub Statistics</b></h2>
 <br/>
