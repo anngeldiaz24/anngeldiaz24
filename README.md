@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-  <h3> I'm 19 years old Self-taught Full-Stack developer from India.</h3>
-</p>
+<img align="right" height="300px" width="300px" alt="GIF" src="https://github.com/anngeldiaz24/anngeldiaz24/blob/main/angel.png" />
 
 <h2 align='center'><b>𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂𝐒</b></h2>
 <br/>
