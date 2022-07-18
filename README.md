@@ -5,6 +5,10 @@
   </h1>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻​ 𝐀𝐧𝐠𝐞𝐥 𝐃𝐢𝐚𝐳 | 💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 🇲🇽 Guadalajara, MEX <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
