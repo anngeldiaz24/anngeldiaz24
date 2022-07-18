@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hello World<a href="hhttps://github.com/anngeldiaz24"></a>!
+    𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃<a href="hhttps://github.com/anngeldiaz24"></a>!
     <img alt="Hi!" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/hand.gif" width="25px">
   </h1>
 </div>
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">𝐄𝐕𝐄𝐑 𝐁𝐄𝐓𝐓𝐄𝐑</h1>
+<h1 align="center">𝐄𝐕𝐄𝐑 𝐁𝐄𝐓𝐓𝐄𝐑 />
 
-<h2 align='center'><b>My GitHub Statistics</b></h2>
+<h2 align='center'><b>𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂𝐒</b></h2>
 <br/>
 
 <p align="center">
