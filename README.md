@@ -10,7 +10,7 @@
 <h3> ❌ 𝐀𝐧𝐠𝐞𝐥 𝐃𝐢𝐚𝐳​ 👨‍💻​ | 💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐆𝐮𝐚𝐝𝐚𝐥𝐚𝐣𝐚𝐫𝐚, 𝐌𝐗 🌮❌​</h3>
 </div>
 
-<img align="right" height="300px" width="300px" alt="GIF" src="https://github.com/anngeldiaz24/anngeldiaz24/blob/main/angel.png" />
+<img align="right" height="300px" width="350px" alt="GIF" src="https://github.com/anngeldiaz24/anngeldiaz24/blob/main/angel.png" />
 <div>
 Here are some ideas to get you started:
 
