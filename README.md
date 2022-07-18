@@ -13,11 +13,13 @@
 <img align="right" height="300px" width="350px" alt="GIF" src="https://github.com/anngeldiaz24/anngeldiaz24/blob/main/angel.png" />
 
 ### About me 💪
-- 🔭 I’m currently studying on CUCEI
-- 🌱 I’m currently learning Python & Flask
-- ⚡ Interests:
+- I’m currently studying on CUCEI📚
+- I’m currently learning Python & Flask 🌱
+- Interests ⚡:
 * Cybersecurity
 * Development of web and mobile applications
+I am a proactive, organized and responsible person. I like to work with 
+other people as a team, giving my greatest effort to reach our goals.
 <br/>
 <br/>
 <br/>
