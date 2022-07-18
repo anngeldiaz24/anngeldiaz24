@@ -9,6 +9,7 @@
 <div align="center">
 <h3> ❌ 𝐀𝐧𝐠𝐞𝐥 𝐃𝐢𝐚𝐳​ 👨‍💻​ | 💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐆𝐮𝐚𝐝𝐚𝐥𝐚𝐣𝐚𝐫𝐚, 𝐌𝐗 🌮❌​</h3>
 </div>
+<div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,9 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 <br />
 <img align="right" height="300px" width="300px" alt="GIF" src="https://github.com/anngeldiaz24/anngeldiaz24/blob/main/angel.png" />
+</div>
+
 
 <h2 align='center'><b>𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂𝐒</b></h2>
 <br/>
