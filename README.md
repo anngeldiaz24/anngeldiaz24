@@ -23,5 +23,9 @@ Here are some ideas to get you started:
 <code><a href="https://cplusplus.com" target="_blank"><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="c++" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://flask.palletsprojects.com/en/2.1.x/quickstart" target="_blank"><img src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent-797x1024.png" alt="flask" width="40" height="40"/></a></code>&nbsp;
+
+<code><a href="https://www.postgresql.org" target="_blank"><img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" alt="flask" width="40" height="40"/></a></code>&nbsp;
+
+<code><a href="https://flask.palletsprojects.com/en/2.1.x/quickstart" target="_blank"><img src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent-797x1024.png" alt="flask" width="40" height="40"/></a></code>&nbsp;
 </code>
 </p>
