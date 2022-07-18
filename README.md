@@ -4,7 +4,6 @@
     <img alt="Hi!" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/hand.gif" width="25px">
   </h1>
 </div>
-**anngeldiaz24/anngeldiaz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Here are some ideas to get you started:
 
@@ -16,6 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">𝐄𝐕𝐄𝐑 𝐁𝐄𝐓𝐓𝐄𝐑</p>
 
 <h2 align='center'><b>My GitHub Statistics</b></h2>
 <br/>
