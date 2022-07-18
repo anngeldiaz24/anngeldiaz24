@@ -19,6 +19,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h2 align='center'><b>My GitHub Statistics</b></h2>
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anngeldiaz24&theme=highcontrast&ring=407BFF&fire=407BFF&currStreakLabel=FFFFFF&sideLabels=407BFF&border=FFFFFF" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=anngeldiaz24&hide_title=true&theme=highcontrast&icon_color=407BFF&show_icons=1&border=FFFFFF&title_color=407BFF" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anngeldiaz24&hide=makefile&hide_title=true&layout=compact&langs_count=6&theme=highcontrast" />
+</p>
+
+<hr/>
+<br/>
+
 ### Languages and Tools 💻
 <p align="center"> 
 <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;
