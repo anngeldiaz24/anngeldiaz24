@@ -49,9 +49,10 @@ Here are some ideas to get you started:
 </p>
 
 ### Find me around the web 🌍
-<p align="left"> 
-<code><a href="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png"><img src="" width="40"></a></code>
-<a href="https://twitter.com/Chatra57643667"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>
-<a href="https://t.me/Pulkit_Champ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-256.png" width="40"></a>
+[![Website Badge](https://img.shields.io/badge/Website-0A79DF?style=flat-square&logo=google-chrome&logoColor=white)](https://achyutghosh.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-achyutghosh06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achyutghosh06@gmail.com)](mailto:achyutghosh06@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achyutghosh24/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/achyut06)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/me_achyut/)
 
 </p>
