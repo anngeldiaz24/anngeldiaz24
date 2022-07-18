@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <a href="hhttps://github.com/anngeldiaz24">Hello World</a>!
+    Hello<a href="hhttps://github.com/anngeldiaz24">Developer</a>!
     <img alt="Hi!" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/hand.gif" width="25px">
   </h1>
 </div>
