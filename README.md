@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></code>&nbsp;
-<code><a href="https://cplusplus.com" target="_blank"><img src="https://www.pngegg.com/en/png-nwuho" alt="c++" width="40" height="40"/></a></code>&nbsp;
+<code><a href="https://cplusplus.com" target="_blank"><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="c++" width="40" height="40"/></a></code>&nbsp;
 </p>
