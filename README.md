@@ -35,11 +35,10 @@
 
 <hr/>
 <br/>
-### TryHackMe👨🏻‍💻
-<div>
-<script src="https://tryhackme.com/badge/1541212"></script>
-<img src="https://tryhackme-badges.s3.amazonaws.com/angel.diaz5609.png" alt="TryHackMe">
 
+### TryHackMe👨🏻‍💻
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/angel.diaz5609.png" alt="TryHackMe">
 </div>
 
 
